@@ -121,7 +121,7 @@ const Datatable = () => {
             Select Multiple Rows
           </div>
 
-          <div>Enter number of rows to select across all pages</div>
+          <div>Enter number of rows</div>
 
           <InputNumber
             value={inputCount}
