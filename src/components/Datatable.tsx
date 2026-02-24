@@ -107,8 +107,8 @@ const Datatable = () => {
   );
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h2>Artworks Dashboard</h2>
+    <div style={{ padding: "1rem" }}>
+     
 
       <div style={{ marginBottom: "1rem", fontWeight: "bold" }}>
         Selected: {selectedIds.size} rows
